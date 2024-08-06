@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WEB\\AuthAPI_902\\AuthAPI_902\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C648846-A01C-47C7-AF32-4D2ECC020E9D}|AuthAPI_902\\AuthAPI_902.csproj|d:\\web\\authapi_902\\authapi_902\\authapi_902\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C648846-A01C-47C7-AF32-4D2ECC020E9D}|AuthAPI_902\\AuthAPI_902.csproj|solutionrelative:authapi_902\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C648846-A01C-47C7-AF32-4D2ECC020E9D}|AuthAPI_902\\AuthAPI_902.csproj|d:\\web\\authapi_902\\authapi_902\\authapi_902\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C648846-A01C-47C7-AF32-4D2ECC020E9D}|AuthAPI_902\\AuthAPI_902.csproj|solutionrelative:authapi_902\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C648846-A01C-47C7-AF32-4D2ECC020E9D}|AuthAPI_902\\AuthAPI_902.csproj|d:\\web\\authapi_902\\authapi_902\\authapi_902\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C648846-A01C-47C7-AF32-4D2ECC020E9D}|AuthAPI_902\\AuthAPI_902.csproj|solutionrelative:authapi_902\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C648846-A01C-47C7-AF32-4D2ECC020E9D}|AuthAPI_902\\AuthAPI_902.csproj|d:\\web\\authapi_902\\authapi_902\\authapi_902\\dtos\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C648846-A01C-47C7-AF32-4D2ECC020E9D}|AuthAPI_902\\AuthAPI_902.csproj|solutionrelative:authapi_902\\dtos\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C648846-A01C-47C7-AF32-4D2ECC020E9D}|AuthAPI_902\\AuthAPI_902.csproj|d:\\web\\authapi_902\\authapi_902\\authapi_902\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C648846-A01C-47C7-AF32-4D2ECC020E9D}|AuthAPI_902\\AuthAPI_902.csproj|solutionrelative:authapi_902\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 887,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "D:\\WEB\\AuthAPI_902\\AuthAPI_902\\AuthAPI_902\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "AuthAPI_902\\Controllers\\RolesController.cs",
+              "ToolTip": "D:\\WEB\\AuthAPI_902\\AuthAPI_902\\AuthAPI_902\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "AuthAPI_902\\Controllers\\RolesController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAUwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:25:30.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\WEB\\AuthAPI_902\\AuthAPI_902\\AuthAPI_902\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AuthAPI_902\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\WEB\\AuthAPI_902\\AuthAPI_902\\AuthAPI_902\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AuthAPI_902\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAowOYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:12:47.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\WEB\\AuthAPI_902\\AuthAPI_902\\AuthAPI_902\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AuthAPI_902\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\WEB\\AuthAPI_902\\AuthAPI_902\\AuthAPI_902\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AuthAPI_902\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:12:42.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ForgotPasswordDto.cs",
+              "DocumentMoniker": "D:\\WEB\\AuthAPI_902\\AuthAPI_902\\AuthAPI_902\\Dtos\\ForgotPasswordDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI_902\\Dtos\\ForgotPasswordDto.cs",
+              "ToolTip": "D:\\WEB\\AuthAPI_902\\AuthAPI_902\\AuthAPI_902\\Dtos\\ForgotPasswordDto.cs",
+              "RelativeToolTip": "AuthAPI_902\\Dtos\\ForgotPasswordDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:12:16.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WEB\\AuthAPI_902\\AuthAPI_902\\AuthAPI_902\\Program.cs",
+              "RelativeDocumentMoniker": "AuthAPI_902\\Program.cs",
+              "ToolTip": "D:\\WEB\\AuthAPI_902\\AuthAPI_902\\AuthAPI_902\\Program.cs",
+              "RelativeToolTip": "AuthAPI_902\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:26:18.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 467,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
